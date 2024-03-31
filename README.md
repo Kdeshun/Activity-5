@@ -1,0 +1,1 @@
+In this course, the activities are designed to help students gain hands-on experience designing and implementing databases. Engaging in these activities will enable students to enhance their technical abilities progressively throughout the duration of the course.
